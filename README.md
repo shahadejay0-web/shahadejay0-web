@@ -1,4 +1,4 @@
-# * About Me:
+#                                                                                    * About Me:
 DevOps intern working on CI/CD pipelines, Docker/Kubernetes containerization, Terraform/Ansible automation, AWS/Azure cloud, Linux admin, Bash/Python scripting, and Prometheus/Grafana monitoring. Passionate about building scalable systems and operational efficiency. Seeking internship/entry-level roles to apply automation expertise and grow in modern DevOps.
 
 
