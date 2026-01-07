@@ -31,7 +31,7 @@ DevOps intern working on CI/CD pipelines, Docker/Kubernetes containerization, Te
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
 </div>
 
-### * Random Dev Quote
+### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
