@@ -1,5 +1,6 @@
 #                                                                                     About Me
-DevOps intern working on CI/CD pipelines, Docker/Kubernetes containerization, Terraform/Ansible automation, AWS/Azure cloud, Linux admin, Bash/Python scripting, and Prometheus/Grafana monitoring. Passionate about building scalable systems and operational efficiency. Seeking internship/entry-level roles to apply automation expertise and grow in modern DevOps.
+Experienced Cloud Engineer with 3+ years of hands-on experience designing, automating, and scaling resilient infrastructure across AWS, Azure, and GCP. Proficient in Infrastructure as Code (IaC) frameworks such as Terraform, Ansible, and CloudFormation, with a strong focus on container orchestration, microservices management, and cloud networking architectures.
+Demonstrated excellence in building scalable and efficient environment configurations deployed on multiple clouds, utilizing services like EKS, GKE, and automated CI/CD pipelines for end-to-end software delivery. Adept at both DevSecOps integration and FinOps methodologies, with a track record of improving system reliability and reducing provisioning times through version-controlled automation.
 
 
 ## Socials
